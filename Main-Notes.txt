@@ -233,7 +233,7 @@ netstat -tunlap
 
 docker exec tomcat ls webapps   --> no host folder in latest version
 
-docker exec tomcat ls java -version --> to see the java version
+docker exec tomcat  java -version --> to see the java version
 
 
 =========================================
